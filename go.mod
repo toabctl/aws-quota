@@ -1,4 +1,4 @@
-module aws-quota
+module github.com/toabctl/aws-quota
 
 go 1.18
 

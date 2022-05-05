@@ -12,7 +12,7 @@ import (
 	"github.com/spf13/cobra"
 	"github.com/jedib0t/go-pretty/v6/table"
 
-	"aws-quota/common"
+	"github.com/toabctl/aws-quota/internal/common"
 )
 
 func init() {

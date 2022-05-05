@@ -1,6 +1,6 @@
 package main
 
-import "aws-quota/cmd"
+import "github.com/toabctl/aws-quota/cmd"
 
 func main() {
 	cmd.Execute()
